@@ -14,7 +14,7 @@
 
 ### HTML5 History API support
 
-* Any path without a path goes to ```/index.html```
+* Any path without an extension goes to ```/index.html```
 * ```/history_api/main.js``` => ```/history_api/main.js```
 * ```/history_api/orders``` => ```/index.html```
 
